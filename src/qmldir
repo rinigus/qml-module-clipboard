@@ -1,0 +1,2 @@
+module Clipboard
+plugin qmlclipboardplugin
